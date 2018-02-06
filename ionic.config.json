@@ -1,0 +1,8 @@
+{
+  "name": "datacampvendas",
+  "app_id": "1b2ca047",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
